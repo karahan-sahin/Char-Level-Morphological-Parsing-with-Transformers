@@ -1,0 +1,47 @@
+niyeti	niyet+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom	buna niyeti olan kral
+
+katılamama	katıl+VERB+Polarity=Pos+Derivation=Able+Polarity=Neg+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare	94
+Given the constrast Polarity=Pos+Derivation=Able+Polarity=Pos
+
+yaşındayken	yaş+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Derivation=While	24
+Otherwise Case=Bare+Derivation=....
+
+kırmak	kır+VERB+Polarity=Pos+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare	2320
+POS --> lemma or token
+
+kolaylığı	kolay+NOUN+PersonNumber=A3sg+Possessive=Pnon+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Bare
+seçilmesidir	seç+VERB+Derivation=Pass+Polarity=Pos+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Copula=GenCop+PersonNumber=V3sg	10
+
+inansa	inan+VERB+Polarity=Pos+TenseAspectMood=Desr+Copula=PresCop+PersonNumber=V3pl	4
+
+bir	bir+DET+DeterminerType=Ind	4
+DET^Ind
+DET^Demons...
+
+Ben	ben+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Bare+Proper=True	1230
+sizinki	sizin+PRON+PersonNumber=A2pl+Possessive=Pnon+Derivation=Rel+PersonNumber=A3sg+Possessive=Pnon+Case=Nom	894
+PRON^A2pl
+
+benIm	benim+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Bare	77
+başımA	baş+NOUN+PersonNumber=A3sg+Possessive=P1sg+Case=Dat	77
+
+Bizim	bizim+PRON+PersonNumber=A1pl+Possessive=Pnon+Case=Bare	1979
+makina	makina+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom	1979
+Case=Gen??
+
+
+eleştirmenin	eleştir+VERB+Polarity=Pos+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Gen	329
+arasındaki	ara+ADP+ComplementType=CGen+Possessive=P3sg+Case=Loc+Derivation=Rel	329
+ADP^CGen
+ADP^CNom....
+
+çatlıyor	çat+ONOM+Derivation=Snd+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg	860
+kımıldaşıyo	kımıl+ONOM+Derivation=Snd+Derivation=Rcp+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg	977
+ONOM^Snd
+
+Sekmeleri	sek+VERB+Polarity=Pos+Proper=True+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Proper=True+Derivation=True+PersonNumber=A3sg+Possessive=Pnon+Case=Acc	2402
+Derivation=True??
+
+PresCop???
+
+
