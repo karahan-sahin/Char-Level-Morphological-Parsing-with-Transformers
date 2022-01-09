@@ -1,0 +1,4459 @@
+<Test>
+Modl Output: thyn+NOUN+Apostrophe=True+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: thyn+NOUN+Apostrophe=True+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: yapı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yapı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ner+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: nere+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: yargı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: yargı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: diyet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: diyet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: özel+ADJ+Proper=False
+True Output: özel+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: meziyet+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: meziyet+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yüksek+ADJ+Proper=False
+True Output: yüksek+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: sıcak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: sıcak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: çok+ADV+Proper=False
+True Output: çok+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: uygu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: uygula+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: savaş+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+True Output: savaş+NOUN+PersonNumber=A3sg+Possessive=P3sg+Apostrophe=True+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: yol+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: yol+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: insan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: insan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kabul+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kabul+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: saha+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: saha+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: elçi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: elçi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: deri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: deri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: öğretm+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: öğretmen+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: 1512+NUM+Proper=False
+True Output: 1512+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ...+PUNCT
+True Output: ...+PUNCT
+</Test>
+<Test>
+Modl Output: performans+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: performans+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: aşk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: aşk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: düşün+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADV+Derivation=Ly+Proper=False
+True Output: düşünce+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: geri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: geri+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: diğer+DET+DeterminerType=Ind+Proper=False
+True Output: diğer+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ardın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: art+ADP+ComplementType=CGen+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bağla+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+Proper=False+DB^ADJ+Derivation=FutPart+Possessive=Pnon+Proper=False
+True Output: bağ+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Fut+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: rekabet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: rekabet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ``+PUNCT
+True Output: ``+PUNCT
+</Test>
+<Test>
+Modl Output: yahudiye+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True+DB^ADJ+Derivation=Rel+Proper=False
+True Output: yahudiye+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True+DB^ADJ+Derivation=Rel+Proper=True
+</Test>
+<Test>
+Modl Output: ayır+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: ayırt+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: aynı+ADJ+Proper=False
+True Output: aynı+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: taşı+VERB+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: taşıt+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ülke+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: ülke+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: 3+NUM+Proper=False
+True Output: 3+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: hit+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: hitler+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: bölge+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: bölge+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: kuzu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: kuzuculu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yap+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: yap+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3pl+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: söz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: söz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: et+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yayın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=FutPart+Possessive=P3sg+Proper=False
+True Output: yayın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=FutPart+Possessive=P3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ak+VERB+Polarity=Pos+TenseAspectMood=Desr+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: akis+ADP+ComplementType=CGen+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: kent+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+True Output: kent+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: diğer+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Acc+Proper=False
+True Output: diğer+PRON+PersonNumber=A3pl+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: anspolis+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: anápolis+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: yeni+ADJ+Proper=False
+True Output: yeni+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: geri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: geri+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: gir+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: giriş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: öte+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: öte+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: pi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: pi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kor+VERB+Polarity=Pos+TenseAspectMood=Desr+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: korsan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: mektup+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: mektup+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: arargatis+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: arargatis+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ancak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ancak+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: ince+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ince+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: asur+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: asur+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^ADJ+Derivation=From+Proper=False
+</Test>
+<Test>
+Modl Output: helikop+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: helikopter+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: destek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: destek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: karar+ADP+ComplementType=CBare+Possessive=P3sg+Case=Ins+Proper=False
+True Output: karar+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: 5+NUM+Proper=False
+True Output: 5+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ideoloj+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ideoloji+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: kübiz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: küp+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Doct+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kız+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kız+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: hava+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hava+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kelleş+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+True Output: kel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: tasarım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: tasarım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: kesin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: kesin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: hakkari+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+True Output: hakkari+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+</Test>
+<Test>
+Modl Output: başla+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: başla+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: i+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sın+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PastCop+PersonNumber=V3sg+Proper=False
+True Output: sınır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PastCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yaşa+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: yaşa+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kalite+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: kalite+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: buenos+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: buenos+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: bölüp+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: böl+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=After+Proper=False
+</Test>
+<Test>
+Modl Output: yahudi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: yahudi+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: yedi+ADJ+Proper=False
+True Output: yedi+NUM+Proper=True
+</Test>
+<Test>
+Modl Output: iste+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PastCop+PersonNumber=V3sg+Proper=False
+True Output: iste+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PastCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bohça+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: bohça+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: mu+PRT+Proper=False
+True Output: mu+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: tekrar+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+True Output: tekrar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: dışiş+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Dat+Proper=False
+True Output: dışişi+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Dat+Proper=True
+</Test>
+<Test>
+Modl Output: ağır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ağır+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: vurgu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: vurgu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: minik+ADJ+Proper=False
+True Output: minik+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: yalova+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+True Output: yalova+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+</Test>
+<Test>
+Modl Output: nato+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: nato+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: de+PRT+Proper=False
+True Output: de+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: her+DET+DeterminerType=Def+Proper=False
+True Output: her+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: sahipse+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: sahip+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=CndCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: önce+ADP+ComplementType=CBare+Possessive=P3sg+Case=Bare+Proper=False
+True Output: önce+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gel+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False+DB^ADV+Derivation=While+Proper=False
+True Output: gel+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False+DB^ADV+Derivation=While+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: doku+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: dokun+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+</Test>
+<Test>
+Modl Output: ancak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ancak+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: takım+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+True Output: takım+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: pers+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: pers+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: miktar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: miktar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: kabul+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kabul+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yelken+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: yelken+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: başla+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: başla+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: kül+VERB+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: kültür+NOUN+PersonNumber=A3sg+Possessive=P3pl+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yansı+VERB+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yansı+VERB+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: mısır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADV+Derivation=Ly+Proper=False
+True Output: mısır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Lang+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bazen+ADV+Proper=False
+True Output: bazen+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: pası+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: pas+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: trablusgara+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: trablusgarp+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+</Test>
+<Test>
+Modl Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+Proper=False+DB^ADV+Derivation=After+Proper=False
+</Test>
+<Test>
+Modl Output: diego+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: diego+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ingilanere+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: ingiltere+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: aç+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: aç+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: çalış+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=CndCop+Copula=CndCop+PersonNumber=V2sg+Proper=False
+True Output: çalış+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=CndCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: böyle+DET+Proper=False
+True Output: böyle+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: mutluluga+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: mutlu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: nasıl+ADV+Proper=False
+True Output: nasıl+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: 35+NUM+Proper=False
+True Output: 35+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ad+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Past+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: ad+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog2+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: beraber+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: beraber+ADP+ComplementType=CIns+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: son+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+True Output: son+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Wout+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: al+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: al+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ben+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Nom+Proper=False
+True Output: ben+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: böyle+DET+Proper=False
+True Output: böyle+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: katıl+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: katıl+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: gel+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: gel+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: kılıç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kılıç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: geç+ADJ+Proper=False
+True Output: geç+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: şüphe+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: şüphe+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: jon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: jon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: belki+ADJ+Proper=False
+True Output: belki+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: forma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: forma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kuzey+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: kuzey+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: et+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+</Test>
+<Test>
+Modl Output: domingo+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: domingo+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: den+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: de+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog2+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: kil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: doktor+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: doktor+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: başlangıç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: başlangıç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ise+PRT+Proper=False
+True Output: ise+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: bulun+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: bulun+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: ciddi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ciddi+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: yağ+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: yağ+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: guatemala+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+True Output: guatemala+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: çif+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: çiftlik+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: sejanus+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: sejanus+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: üzül+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: üz+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: :+PUNCT
+True Output: :+PUNCT
+</Test>
+<Test>
+Modl Output: toprak+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Abl+Proper=False
+True Output: toprak+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: dövüş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: döv+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: cazip+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: cazibe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: kazan+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: kazan+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: her+DET+DeterminerType=Def+Proper=False
+True Output: her+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: iste+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: iste+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: fiyat+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: fiyat+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ben+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: ben+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: toprak+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: toprak+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: simülasyon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: simülasyon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: hafta+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: hafta+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: muhalif+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: muhalif+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ad+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: ad+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: firar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: fikir+NOUN+PersonNumber=A3sg+Possessive=P2sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: mı+PRT+Proper=False
+True Output: mı+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: torun+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: torun+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: her+DET+DeterminerType=Def+Proper=False
+True Output: her+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: yer+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: yer+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: sat+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: satürn+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: yan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: yan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: mustaine+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: mustaine+VERB+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=True
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: veya+CONJ+ConjunctionType=Coor+Proper=False
+True Output: veya+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: amatör+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: amatör+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: cevap+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: cevap+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: en+ADV+Proper=False
+True Output: en+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: gangster+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: gangster+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: et+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: deney+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Rtd+Proper=False
+True Output: deney+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Rtd+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: sabah+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sabah+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: fransız+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: fransız+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: bulun+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: bulun+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: çökek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: çökek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ceket+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ceket+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: belde+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: belde+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: gibi+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gibi+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: frank+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: frank+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: rus+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: rus+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: bilet+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: bilet+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: et+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: batı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: batı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kar+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: karar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: his+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: his+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: konu+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: konu+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: tf+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: tf+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: hım.+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hım+X+Proper=False
+</Test>
+<Test>
+Modl Output: kaba+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADV+Derivation=Ly+Proper=False
+True Output: kaba+ADJ+Proper=False+DB^ADJ+Derivation=Ly+Proper=False
+</Test>
+<Test>
+Modl Output: 5+NUM+Proper=False
+True Output: 5+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: mısır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: mısır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ilgi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: ilgili+ADP+ComplementType=CIns+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: yol+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yol+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kadem+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: kademe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ilk+ADJ+Proper=False
+True Output: ilk+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: git+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: git+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: latour+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: latour+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: plan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: plan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ref+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: reflü+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: cahil+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+True Output: cahil+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: tabiri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tabir+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: iki+NUM+Proper=False
+True Output: iki+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ne+CONJ+ConjunctionType=Par+Proper=False
+True Output: ne+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: şifa+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: şifa+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: ateş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: ateş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: hala+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hala+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: aç+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: aç+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: istem+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: iste+VERB+Polarity=Neg+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: fazla+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: fazla+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: eski+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: eski+PRON+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: 20+NUM+Proper=False
+True Output: 20+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: çer+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V1pl+Proper=False
+True Output: çerez+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: flash+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: flash+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: benim+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Nom+Proper=False
+True Output: benim+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: lise+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: lise+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: kalkıyo+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kalk+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: (+PUNCT
+True Output: (+PUNCT
+</Test>
+<Test>
+Modl Output: osman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: osmanlı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gjon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: gjon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: kullan+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: kullan+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: sinan+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+True Output: sinan+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+</Test>
+<Test>
+Modl Output: bil+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: bil+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yeter+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yeter+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: birlikte+ADP+ComplementType=CIns+Possessive=Pnon+Case=Bare+Proper=False
+True Output: birlikte+ADP+ComplementType=CIns+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: al+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: al+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: biz+PRON+PersonNumber=A2pl+Possessive=Pnon+Case=Dat+Proper=False
+True Output: biz+PRON+PersonNumber=A1pl+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: tabir+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: tabir+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: rahmet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: rahmet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: birçok+DET+DeterminerType=Ind+Proper=False
+True Output: birçok+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: haziran+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: haziran+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+TenseAspectMood=Prog2+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: et+VERB+Polarity=Pos+TenseAspectMood=Prog2+Copula=PastCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: parça+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+True Output: parça+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: deneme+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: dene+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: fakat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: fakat+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: itiraz+NOUN+PersonNumber=A3sg+Possessive=P1sg+Case=Nom+Proper=False
+True Output: itiraz+NOUN+PersonNumber=A3sg+Possessive=P1sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: PUNCT
+True Output: ə+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: hareket+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: hareket+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+True Output: ol+VERB+Polarity=Neg+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: organ+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: organ+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: et+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ordu+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Gen+Proper=False
+True Output: ordu+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kartli+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True+DB^ADJ+Derivation=Rel+Proper=False
+True Output: kartli+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True+DB^ADJ+Derivation=Rel+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: film+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: film+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: sabah+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sabah+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: kent+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: kent+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ocak+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ocak+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: izle+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: izle+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: tüm+DET+DeterminerType=Def+Proper=False
+True Output: tüm+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: sinek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sinek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kullan+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: kullan+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ikileme+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: iki+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: aç+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: aç+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: winmsd.+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: winmsd.+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: resmî+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: resmî+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: bilgi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: bilgi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: dinsel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: din+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Rtd+Proper=False
+</Test>
+<Test>
+Modl Output: bölge+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: bölge+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: daha+ADV+Proper=False
+True Output: daha+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: karşı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: karşılık+VERB+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: grek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: grek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: saygı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: saygı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ``+PUNCT
+True Output: ``+PUNCT
+</Test>
+<Test>
+Modl Output: ``+PUNCT
+True Output: ``+PUNCT
+</Test>
+<Test>
+Modl Output: vasıta+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+True Output: vasıta+ADP+ComplementType=CBare+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: ?+PUNCT
+True Output: ?+PUNCT
+</Test>
+<Test>
+Modl Output: ?+PUNCT
+True Output: ?+PUNCT
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: zıt+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: zıt+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ...+PUNCT
+True Output: ...+PUNCT
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: yürür+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: yürürlük+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: batı+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: batı+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: batı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: batı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: millet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: millet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: terap+VERB+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: terapi+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ilçe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: ilçe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: )+PUNCT
+True Output: )+PUNCT
+</Test>
+<Test>
+Modl Output: istiyo+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: iste+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=CndCop+PersonNumber=V2pl+Proper=False
+</Test>
+<Test>
+Modl Output: siyri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: sıyır+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ad+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ad+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: düşün+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: düşün+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: varak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: varaka+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: karum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: karum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: bekleme+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: bekle+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: eklem+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: eklem+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: aç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: aç+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ara+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+True Output: ara+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: solup+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=After+Proper=False
+</Test>
+<Test>
+Modl Output: çoğu+DET+DeterminerType=Ind+Proper=False
+True Output: çoğu+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: inat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: inat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Agt+Proper=False
+</Test>
+<Test>
+Modl Output: omurga+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: omurga+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: at+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: ada+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: gecek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gecek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=From+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: harf+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: harf+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ver+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ver+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bile+PRT+Proper=False
+True Output: bile+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: iç+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+True Output: iç+ADP+ComplementType=CGen+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: kalite+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: kalite+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: kullan+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: kullan+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Neg+Proper=False+DB^ADJ+Derivation=PerPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: ya+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ya+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: aynı+ADJ+Proper=False
+True Output: aynı+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: 1958+NUM+Proper=False
+True Output: 1958+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: riley+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: riley+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: bozul+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: boz+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: bozul+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: boz+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: al+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+y
+True Output: altay+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: daima+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: daima+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: esa+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: esasi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: speak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: speak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: toplama+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: topla+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: işaret+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: işaret+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+</Test>
+<Test>
+Modl Output: bach+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: bach+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: hasta+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: hasta+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yoğun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yoğun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: tartı+VERB+Proper=False+DB^VERB+Derivation=Rcp+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tartış+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: abdes+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: abdest+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: eger+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: eğer+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: dizi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: dizi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: ilk+ADJ+Proper=False
+True Output: ilk+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: 1978+NUM+Proper=False
+True Output: 1978+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: salih+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: salih+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: dola+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: dolayı+ADP+ComplementType=CAbl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: var+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+True Output: var+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: rock+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: rock+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: kilise+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+True Output: kilise+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: buçuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: buçuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sür+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: sür+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: aynı+ADJ+Proper=False
+True Output: aynı+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: or+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: ordu+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: km+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: km+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: taraf+ADP+ComplementType=CBare+Possessive=P3sg+Case=Abl+Proper=False
+True Output: taraf+ADP+ComplementType=CBare+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: tabir+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: tabir+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: do+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=False
+True Output: dol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yıl+NOUN+Temporal=True+PersonNumber=A3pl+Possessive=P3sg+Case=Loc+Proper=False
+True Output: yıl+NOUN+Temporal=True+PersonNumber=A3pl+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bilgi+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: bilgi+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: olanak+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sınır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: sınır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: göçü+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: göç+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: şehir+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: şehir+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ısı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ısı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: var+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: var+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: durum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: durum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: hükumet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hükumet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ama+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ama+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: donanım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: donanım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: devam+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: devam+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: doğrul+VERB+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: doğrultu+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: iyi+ADJ+Proper=False
+True Output: iyi+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: bölüm+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: bölüm+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: hem+CONJ+ConjunctionType=Par+Proper=False
+True Output: hem+CONJ+ConjunctionType=Par+Proper=False
+</Test>
+<Test>
+Modl Output: i+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: mithat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: mithat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: tuz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tuz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gün+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gün+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: insan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: insan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: erkek+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+True Output: erkek+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: halk+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+True Output: halk+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: kredi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kredi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ver+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ver+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: türk+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Abl+Proper=False
+True Output: türk+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: at+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=Inh+Possessive=Pnon+Proper=False
+True Output: at+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=Inh+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: çinko+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: çinko+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: tek+DET+DeterminerType=Def+Proper=False
+True Output: tek+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: in+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+True Output: iç+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: güç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: güç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: kek+ADV+Proper=False
+True Output: kek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ya+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ya+CONJ+ConjunctionType=Par+Proper=False
+</Test>
+<Test>
+Modl Output: 1870+NUM+Proper=False
+True Output: 1870+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: 2+NUM+Proper=False
+True Output: 2+NUM+Proper=True
+</Test>
+<Test>
+Modl Output: bil+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=CndCop+PersonNumber=V2sg+Proper=False
+True Output: bil+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=CndCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: yakov+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yakov+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ayar+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: ayar+VERB+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: sergi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: sergi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^VERB+Derivation=Make+Proper=True+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=True+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=True
+</Test>
+<Test>
+Modl Output: piemon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: piemonte+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: sivil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: sivilce+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: eğitim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: eğitim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ilgi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: ilgili+ADP+ComplementType=CIns+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: savaş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: savaş+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: savaşabi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: savaş+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: aşagı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: aşağı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: büyük+ADJ+Proper=False
+True Output: büyük+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: gerçi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gerçi+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: ağa+ADJ+Proper=False+DB^ADV+Derivation=Ly+Proper=False
+True Output: ağaç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: bir+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: bir+NUM+NumberType=Dist+Proper=False
+</Test>
+<Test>
+Modl Output: yapıp+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yap+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=After+Proper=False
+</Test>
+<Test>
+Modl Output: çık+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: çık+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: kalp+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kalp+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ise+PRT+Proper=False
+True Output: ise+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: miyom+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: miyom+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: önce+ADV+Temporal=True+Proper=False
+True Output: önce+ADP+ComplementType=CAbl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kullan+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V2sg+Proper=False
+True Output: kullan+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: uzan+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+True Output: uza+VERB+Proper=False+DB^VERB+Derivation=Rfx+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: da+PRT+Proper=False
+True Output: da+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: iş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: iş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: güney+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: güney+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: point+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: point+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ne+VERB+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3pl+Proper=False
+True Output: ne+VERB+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: etnik+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: etnik+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: genç+ADJ+Proper=False
+True Output: genç+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: örnek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: örnek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: meksika+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: meksika+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=True
+</Test>
+<Test>
+Modl Output: 1944+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: 1944+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: gebze+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gebze+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: arkadaş+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: arkadaş+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: 10base+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: 10base+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: değer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Fut+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: değer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+Proper=False+DB^ADJ+Derivation=FutPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: bölge+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: bölge+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: üzer+ADP+ComplementType=CBare+Possessive=P3sg+Case=Dat+Proper=False
+True Output: üzer+ADP+ComplementType=CGen+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: beceri+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: beceri+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: roma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: roma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: hristiyan+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Ins+Proper=False
+True Output: hristiyan+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=True+DB^ADV+Derivation=By+Proper=False
+</Test>
+<Test>
+Modl Output: ref+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: reflü+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: boğaz+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: boğaz+NOUN+PersonNumber=A3sg+Possessive=P3sg+Apostrophe=True+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: hüküm+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: hükümdar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ilişki+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ilişki+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: mı+PRT+Proper=False
+True Output: mı+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: zara+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: zarar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: nasıl+ADV+Proper=False
+True Output: nasıl+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: siri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: siri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: resim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: resim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: taepyeongso+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: taepyeongso+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: r+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: r+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: temel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: temel+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: değer+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: değer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ilk+ADJ+Proper=False
+True Output: ilk+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: inen+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: in+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: hız+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: hız+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: hazar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hazar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: !+PUNCT
+True Output: !+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ortope+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: ortopedi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: sevgi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: sevgi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: 1920+NOUN+Apostrophe=True+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: 1920+NOUN+Apostrophe=True+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: doğra+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: doğra+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: zımpara+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+m+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: zımpara+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: youtup+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: youtube+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: '+PUNCT
+True Output: '+PUNCT
+</Test>
+<Test>
+Modl Output: insan+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: insan+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: bileş+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+True Output: bileş+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: balık+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: balık+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: net+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: net+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: metempsychosis+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: metempsychosis+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sıcak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: sıcak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: 1200+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: 1200+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: ayar+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ayar+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: üst+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: üst+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: de+PRT+Proper=False
+True Output: de+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: sığın+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: sığın+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: bağım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+True Output: bağım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: dör+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: dört+NUM+NumberType=Ord+Proper=False
+</Test>
+<Test>
+Modl Output: değil+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: değil+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: çata+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: çatal+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: rekor+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: rekor+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: 1+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: 1+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: huzur+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: huzur+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: deoxidiz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: deoxidizing+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: birim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: birim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: güven+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V2sg+Proper=False
+True Output: güven+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ise+PRT+Proper=False
+True Output: ise+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: i+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gör+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gör+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: peki+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: peki+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: maksad+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: maksat+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: gerçek+ADJ+Proper=False
+True Output: gerçek+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: risk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: risk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: darbe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: darbe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: dola+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: dolayı+ADP+ComplementType=CAbl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: iste+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: iste+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: i+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: da+PRT+Proper=False
+True Output: da+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: iki+NUM+Proper=False
+True Output: iki+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Fut+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Fut+Copula=PastCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: korku+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: korku+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: rabinik+ADJ+Proper=False
+True Output: rabinik+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: semt+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: semt+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: hak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: hak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: tariff+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tariff+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: güv+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: güven+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: çikola+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: çikolata+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ibraz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ibraz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: tarım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: tarım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: sistem+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: sistem+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: kavram+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: kavram+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ``+PUNCT
+True Output: ``+PUNCT
+</Test>
+<Test>
+Modl Output: rahat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: rahat+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: çok+ADV+Proper=False
+True Output: çok+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: kaplama+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kaplama+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: yoğun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yoğun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yerle+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: kadar+ADP+ComplementType=CDat+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kadar+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: süre+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: süre+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: güzel+ADJ+Proper=False
+True Output: güzel+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: performan+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: performans+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bal+VERB+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: baldız+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: heterosek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: heteroseksüel+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: çelik+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: çelik+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: yaşa+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yaşa+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: 4+NUM+Proper=False
+True Output: 4+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: yeni+ADJ+Proper=False
+True Output: yeni+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: nisan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: nisan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: yeni+ADJ+Proper=False
+True Output: yeni+ADJ+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: beyni+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: beyin+NOUN+PersonNumber=A3sg+Possessive=P2sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: yarat+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: yarat+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yaş+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: yaşa+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: led+X+Proper=False
+True Output: led+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yeni+ADJ+Proper=False
+True Output: yeni+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: terörist+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+True Output: terör+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Foll+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: de+PRT+Proper=False
+True Output: de+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: 1927+NUM+Proper=False
+True Output: 1927+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: kötü+ADJ+Proper=False
+True Output: kötü+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ayrı+ADJ+Proper=False
+True Output: ayrı+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: araştır+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: araştır+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: liste+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: liste+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: 21+NUM+Proper=False
+True Output: 21+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: yarışı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yarış+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: melodi+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: melodi+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: tüm+DET+DeterminerType=Def+Proper=False
+True Output: tüm+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: çöz+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: çöz+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog1+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+Proper=False
+</Test>
+<Test>
+Modl Output: tesadüf+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tesadüf+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: mil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: mil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: ısra+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ısrar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: thermal+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: thermaltake+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: önce+ADP+ComplementType=CBare+Possessive=P3sg+Case=Bare+Proper=False
+True Output: önce+ADP+ComplementType=CBare+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: menü+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: menü+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: ieee+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ıeee+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: kaç+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: kaç+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: temiz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: temiz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Aor+Copula=CndCop+PersonNumber=V2pl+Proper=False
+</Test>
+<Test>
+Modl Output: tuğla+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tuğla+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: tekrar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tekrar+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: bu+PRON+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: bunlar+PRON+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: oyun+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: oyun+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ta+PRT+Proper=False
+True Output: ta+X+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: roma+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: roma+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: hak+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+True Output: hak+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: et+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: yap+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: yap+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: gün+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gün+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: personel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: personel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: premier+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: premier+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: olay+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: olay+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: -+PUNCT
+True Output: -+PUNCT
+</Test>
+<Test>
+Modl Output: yardım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yardım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: su+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: su+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: azın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: az+PRON+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: lat+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=When+Proper=False
+True Output: latin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Lang+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: tebriz+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=True
+True Output: tebriz+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=True
+</Test>
+<Test>
+Modl Output: ver+VERB+Proper=False+DB^VERB+Derivation=Able+Polarity=Neg+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ver+VERB+Proper=False+DB^VERB+Derivation=Able+Polarity=Neg+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: sanki+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sanki+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: kazan+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: kazan+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: milletveki+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: milletvekili+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: omuz+NOUN+PersonNumber=A3pl+Possessive=P1pl+Case=Nom+Proper=False
+True Output: omuz+NOUN+PersonNumber=A3pl+Possessive=P1pl+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: lat+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=When+Proper=False
+True Output: latin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Lang+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yap+VERB+Polarity=Neg+PersonNumber=A3sg+Possessive=P1pl+Case=Bare+Copula=PresCop+PersonNumber=V1pl+Proper=False
+True Output: yap+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P1pl+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: tek+DET+DeterminerType=Def+Proper=False
+True Output: tek+DET+DeterminerType=Def+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: denetim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: denetim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ;+PUNCT
+True Output: ;+PUNCT
+</Test>
+<Test>
+Modl Output: '+PUNCT
+True Output: '+PUNCT
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: davet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: davetiye+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ara+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+True Output: ara+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: çoğu+DET+DeterminerType=Ind+Proper=False
+True Output: çoğu+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: 1915+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: 1915+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: maç+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: maç+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: satış+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: sat+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: üniforma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: üniforma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: meets+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: meets+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: 2001+NUM+Proper=False
+True Output: 2001+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: jinekoloğa+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: jinekolog+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: bunalım+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: bunalım+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ara+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: ara+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: komutan+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=True
+True Output: komutan+NOUN+PersonNumber=A3sg+Possessive=P3sg+Apostrophe=True+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: -+PUNCT
+True Output: -+PUNCT
+</Test>
+<Test>
+Modl Output: yedek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+True Output: yedek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bilge+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+True Output: bilge+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=True
+</Test>
+<Test>
+Modl Output: selçuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: selçuklu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: yapım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: yapım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: jean+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: jean+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: şayet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: şayet+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: sık+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sık+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: ankara+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+True Output: ankara+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: alternatif+ADJ+Proper=False
+True Output: alternatif+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: sonra+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: sonra+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: geç+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: geç+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: can+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: can+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: oluş+VERB+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog1+Copula=PastCop+PersonNumber=V3pl+Proper=False
+True Output: oluş+VERB+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog1+Copula=PastCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: bilgisay+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Nom+Proper=False
+True Output: bilgisayar+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: köken+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Ins+Proper=False
+True Output: köken+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: yine+ADV+Proper=False
+True Output: yine+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: ayrıca+CONJ+ConjunctionType=Adv+Proper=False
+True Output: ayrıca+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ilçe+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ilçe+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gerçek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Bcm+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ancak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ancak+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: depresyon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: depresyon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: faaliyet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+True Output: faaliyet+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: yara+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yara+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Rfx+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: yal+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: yalan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: shepard+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: shepard+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: ama+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ama+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: hiçbir+DET+DeterminerType=Ind+Proper=False
+True Output: hiçbir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: a.s.m.+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: a.s.m.+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: 35+NUM+Proper=False
+True Output: 35+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: uygun+ADJ+Proper=False
+True Output: uygun+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: nasıl+ADV+Proper=False
+True Output: nasıl+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: bölge+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: bölge+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: mi+PRT+Proper=False
+True Output: mi+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: b+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: b+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sahip+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sahip+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: :+PUNCT
+True Output: :+PUNCT
+</Test>
+<Test>
+Modl Output: maç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: maç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sayı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Rtd+Proper=False
+True Output: sayı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Rtd+Proper=False
+</Test>
+<Test>
+Modl Output: riske+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: risk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: gör+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: gör+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: 3+NUM+Proper=False
+True Output: 3+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: faaliyet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: faaliyet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sefer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sefer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: oy+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: oyun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: çünkü+CONJ+ConjunctionType=Coor+Proper=False
+True Output: çünkü+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: 1956+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: 1956+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: rağmen+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: rağmen+ADP+ComplementType=CDat+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: in+VERB+i+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: indir+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: git+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: git+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: daha+ADV+Proper=False
+True Output: daha+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: dikkat+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: dikkat+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: tamir+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tamir+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bastır+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=When+Proper=False
+True Output: bas+VERB+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+TenseAspectMood=Fut+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: el+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: elma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yerle+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yerleş+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: zaman+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: iç+VERB+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: iç+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: )+PUNCT
+True Output: )+PUNCT
+</Test>
+<Test>
+Modl Output: güzel+ADJ+Proper=False
+True Output: güzel+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: kuru+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: kur+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=With+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: bil+VERB+Proper=False+DB^VERB+Derivation=Cau+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: bildirim+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: orta+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ortalama+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: yoksa+CONJ+ConjunctionType=Coor+Proper=False
+True Output: yoksa+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: yemek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yemek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=For+Proper=False
+</Test>
+<Test>
+Modl Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: rahat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: rahat+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ön+ADJ+Proper=False
+True Output: ön+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+</Test>
+<Test>
+Modl Output: iste+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: iste+VERB+Polarity=Neg+TenseAspectMood=Aor+Copula=CndCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: akım+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: akım+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: gerçek+ADJ+Proper=False
+True Output: gerçek+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: 9+NUM+Proper=False
+True Output: 9+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: -+PUNCT
+True Output: -+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: yedek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yedek+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: final+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: final+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: cuma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: cuma+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yaz+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yaz+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: hristiyan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: hristiyan+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: iste+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: iste+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kidd+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kidd+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: ait+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ait+ADP+ComplementType=CDat+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: söyle+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: söyle+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: at+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: at+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V2pl+Proper=False
+</Test>
+<Test>
+Modl Output: al+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+y
+True Output: altay+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: kalori+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: kalori+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: iş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: iş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: tör+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: tören+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: şahin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: şahin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: imza+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: imza+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: iç+ADJ+Proper=False
+True Output: iç+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: test+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: test+VERB+PersonNumber=A3pl+Possessive=P3sg+Case=Bare+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: banka+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: banka+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: georges+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: georges+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yı+X+Proper=False
+True Output: yı+X+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: pay+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Rcp+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+True Output: pay+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Rcp+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: ipek+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ipek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Sim+Proper=False
+</Test>
+<Test>
+Modl Output: rağmen+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: rağmen+ADP+ComplementType=CDat+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: çılgın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: çılgın+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: gel+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: gel+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: şuur+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+True Output: şuur+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+</Test>
+<Test>
+Modl Output: şarkı+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Abl+Proper=False
+True Output: şarkı+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: uzun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: uzun+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: şarkı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: şarkı+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: kuşku+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+True Output: kuşku+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADV+Derivation=Wout+Proper=False
+</Test>
+<Test>
+Modl Output: '+PUNCT
+True Output: '+X+Apostrophe=True+Proper=False
+</Test>
+<Test>
+Modl Output: !+PUNCT
+True Output: !+PUNCT
+</Test>
+<Test>
+Modl Output: gerek+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gerek+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bozuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: bozuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: han+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: han+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=True
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: re+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: re+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sıra+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: sıra+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: uç+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+Derivation=Nonf+PersonNumber=V2sg+Proper=False
+True Output: uç+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: baş+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: başla+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: interne+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: internet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: siyaset+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: siyaset+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: aç+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: aç+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kabugu+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kabuk+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: yap+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: yap+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: tövbe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tövbe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: resep+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3pl+Possessive=P3sg+Case=Gen+Proper=False
+True Output: reseptör+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: uzak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: uzak+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: yürek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADV+Derivation=While+Proper=False
+True Output: yürek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: devrim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Agt+Proper=False
+True Output: devrim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: örnek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: örneğin+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: dışavurum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Apostrophe=True+Case=Abl+Proper=True
+True Output: dışavurum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Apostrophe=True+Case=Abl+Proper=True
+</Test>
+<Test>
+Modl Output: bağ+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Acc+Proper=False
+True Output: bağ+NOUN+PersonNumber=A3sg+Possessive=P3pl+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: sonra+ADP+ComplementType=CAbl+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sonra+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: hamile+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: hamile+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: şarap+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: şarap+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: destek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: destek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ayı+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: ayır+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: conk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: conk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yaygın+ADJ+Proper=False
+True Output: yaygın+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: araba+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: araba+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: son+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Dat+Proper=False
+True Output: son+NOUN+PersonNumber=A3sg+Possessive=P3pl+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: mora+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: mora+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: moral+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: moral+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: tl+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: tl+VERB+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: olay+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: olay+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: gül+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gül+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=AorPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: güzel+ADJ+Proper=False
+True Output: güzel+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: çiz+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: çiz+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: oran+VERB+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: oran+VERB+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bileş+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+True Output: bileş+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PresNom+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: yeni+ADJ+Proper=False
+True Output: yeni+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: çalış+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: çalış+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: al+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: al+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=FutPart+Possessive=Pnon+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=FutNom+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: sol+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sol+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: sık+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sık+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: büy+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: büyü+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: işık+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: ışık+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: al+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: al+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: kur+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kurtul+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: hukuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hukuk+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: (+PUNCT
+True Output: (+PUNCT
+</Test>
+<Test>
+Modl Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ile+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: melo+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: melodika+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: hareket+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Loc+Proper=False
+True Output: hareket+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: schleswig+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: schleswig+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: süre+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: süre+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: deniz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: deniz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: üstün+ADJ+Proper=False
+True Output: üstün+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: devri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: devir+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: geç+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: geç+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: soy+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+True Output: soy+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=With+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: yine+ADV+Proper=False
+True Output: yine+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: manzara+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: manzara+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kaç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kaç+DET+Proper=False
+</Test>
+<Test>
+Modl Output: ösym+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ösym+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ana+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: an+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: vetelin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: víteliú+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: saldırgan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: saldırgan+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: depresyon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: depresyon+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: ciğer+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: ciğer+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: sahil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: sahil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: yer+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: hak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: hak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=With+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PresCop+PersonNumber=V2sg+Proper=False
+</Test>
+<Test>
+Modl Output: üçün+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Agt+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: üç+NUM+NumberType=Ord+Proper=False
+</Test>
+<Test>
+Modl Output: çok+ADV+Proper=False
+True Output: çok+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: tc24+NUM+Proper=False
+True Output: tc24+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ara+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+True Output: ara+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: sorun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sorun+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: gümcel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: güncel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: önce+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+True Output: önce+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: yüksek+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: yüksek+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: bu+DET+DeterminerType=Dem+Proper=False
+True Output: bu+DET+DeterminerType=Dem+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: elhamdülillaha+ADV+Proper=False
+True Output: elhamdülillah+X+Proper=False
+</Test>
+<Test>
+Modl Output: toksine+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: toksin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: yaş+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: yaşa+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: atom+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: atom+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: 1106+NUM+Proper=False
+True Output: 1106+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: de+PRT+Proper=False
+True Output: de+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: sonra+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sonra+ADP+ComplementType=CAbl+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: yap+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V1sg+Proper=False
+True Output: yap+VERB+Polarity=Pos+Proper=False+DB^VERB+Derivation=Able+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: bob+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: bob+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: askeri+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: askeri+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: du+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+True Output: duy+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P3sg+Proper=False
+</Test>
+<Test>
+Modl Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: cartwwhght+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: cartwright+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: uzman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: uzman+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yeni+ADJ+Proper=False
+True Output: yeni+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: sıra+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: sıra+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: i+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+True Output: için+ADP+ComplementType=CBare+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gün+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gün+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: tıp+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: tıbbi+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: fenerbahçe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: fenerbahçe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: et+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: )+PUNCT
+True Output: )+PUNCT
+</Test>
+<Test>
+Modl Output: ancak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ancak+CONJ+ConjunctionType=Adv+Proper=False
+</Test>
+<Test>
+Modl Output: sarsam+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: sar+VERB+Polarity=Pos+TenseAspectMood=Desr+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: iklim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: iklim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ayak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ayak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Acq+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: değil+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: değil+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: masaüstü+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: masaüstü+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: yunanistan+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=True
+True Output: yunanistan+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=True
+</Test>
+<Test>
+Modl Output: doğru+ADP+ComplementType=CDat+Possessive=Pnon+Case=Bare+Proper=False
+True Output: doğru+ADP+ComplementType=CDat+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ne+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+True Output: ne+VERB+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=GenCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: gir+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3pl+Proper=False
+True Output: gir+VERB+Polarity=Pos+TenseAspectMood=Nar+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: güç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: güç+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: pediyatrik+ADJ+Proper=False
+True Output: pediyatrik+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: kal+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: kal+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: 3+NUM+Proper=False
+True Output: 3+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ay+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ay+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: ver+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ver+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: yapış+VERB+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3pl+Proper=False
+True Output: yapış+VERB+Proper=False+DB^VERB+Derivation=Cau+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Nar+Copula=GenCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: ``+PUNCT
+True Output: ``+PUNCT
+</Test>
+<Test>
+Modl Output: sevinirim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: sev+VERB+Proper=False+DB^VERB+Derivation=Rfx+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V1sg+Proper=False
+</Test>
+<Test>
+Modl Output: yaşan+VERB+Polarity=Pos+TenseAspectMood=Prog1+Copula=PastCop+PersonNumber=V3sg+Proper=False
+True Output: yaşa+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog1+Copula=PastCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: gel+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: gel+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: vali+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: vali+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: ne+CONJ+ConjunctionType=Par+Proper=False
+True Output: ne+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: öneri+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Nom+Proper=False
+True Output: öneri+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: gün+NOUN+Temporal=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: gün+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: kal+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: kal+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: bırak+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+True Output: bırak+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: karın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: karın+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: dikkat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: dikkat+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: papaz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: papaz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: özel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: özel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: -+PUNCT
+True Output: -+PUNCT
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: kal+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: kal+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: kasım+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Acc+Proper=False
+True Output: kasım+VERB+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Copula=PastCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: alan+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: alan+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: '+PUNCT
+True Output: '+X+Apostrophe=True+Proper=False
+</Test>
+<Test>
+Modl Output: strip+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=Wout+Proper=False
+True Output: striptiz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ?+PUNCT
+True Output: ?+PUNCT
+</Test>
+<Test>
+Modl Output: yaşa+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+True Output: yaşa+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: önem+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: önem+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: bile+PRT+Proper=False
+True Output: bile+PRT+Proper=False
+</Test>
+<Test>
+Modl Output: ;+PUNCT
+True Output: ;+PUNCT
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: tapınak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tapınak+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: son+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: son+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: devlet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Ins+Proper=False
+True Output: devlet+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: yerleşim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yerleşim+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: düğün+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+True Output: düğün+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: rada+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: radar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: lh+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: lh+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: ol+VERB+Polarity=Pos+TenseAspectMood=Past+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: kelime+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+True Output: kelime+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: torres+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: torres+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ne+CONJ+ConjunctionType=Par+Proper=False
+True Output: ne+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: göen+ADJ+Proper=False
+True Output: gör+VERB+Polarity=Pos+Proper=False+DB^ADJ+Derivation=PresPart+Possessive=Pnon+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: duş+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: duşa+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: rivayet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: rivayet+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: benim+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Nom+Proper=False
+True Output: benim+PRON+PersonNumber=A1sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: 3+NUM+Proper=False
+True Output: 3+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: neden+ADP+ComplementType=CBare+Possessive=Pnon+Case=Ins+Proper=False
+True Output: neden+ADP+ComplementType=CBare+Possessive=Pnon+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: düzey+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+True Output: düzey+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: ekim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: ekim+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: el+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: el+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ayar+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ayar+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: bin+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: bin+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: birikim+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Nom+Proper=False
+True Output: birikim+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: "+X+Apostrophe=True+Proper=False
+</Test>
+<Test>
+Modl Output: kurum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kurum+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: cebel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: cebel+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=PastNom+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: kendi+PRON+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+True Output: kendi+PRON+PersonNumber=A3sg+Possessive=P3sg+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: çok+ADV+Proper=False
+True Output: çok+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: geniş+ADJ+Proper=False
+True Output: geniş+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: insan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: insan+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: gel+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+True Output: gel+VERB+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3sg+Proper=False
+</Test>
+<Test>
+Modl Output: 
+True Output: )'un+X+Apostrophe=True+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: ama+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ama+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: yüz+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Loc+Proper=False
+True Output: yüzde+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: tanım+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: tanım+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^VERB+Derivation=Make+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: abdalham+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: abdülhamit+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: unsur+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: unsur+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: program+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: program+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: le+VERB+Polarity=Pos+TenseAspectMood=Imp+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: lerin+X+PersonNumber=A3pl+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: aynı+ADJ+Proper=False
+True Output: aynı+ADJ+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: giriş+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+True Output: giriş+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: hemen+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hemen+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: (+PUNCT
+True Output: (+PUNCT
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: çok+ADV+Proper=False
+True Output: çok+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: göztep+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: göztepe+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=True
+</Test>
+<Test>
+Modl Output: 37+NUM+Proper=False
+True Output: 37+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: sizin+PRON+PersonNumber=A2pl+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sizin+PRON+PersonNumber=A2pl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: tekrar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: tekrar+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: et+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Inf+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: et+VERB+Proper=False+DB^VERB+Derivation=Pass+Polarity=Pos+TenseAspectMood=Prog2+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: bulun+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3pl+Possessive=Pnon+Case=Nom+Proper=False
+True Output: bulun+VERB+Polarity=Neg+TenseAspectMood=Aor+Copula=PresCop+PersonNumber=V3pl+Proper=False
+</Test>
+<Test>
+Modl Output: otorite+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+True Output: otorite+NOUN+PersonNumber=A3pl+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: 832+NUM+Proper=False
+True Output: 832+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: bir+DET+DeterminerType=Ind+Proper=False
+True Output: bir+DET+DeterminerType=Ind+Proper=False
+</Test>
+<Test>
+Modl Output: 263+NUM+Proper=False
+True Output: 263+NUM+Proper=False
+</Test>
+<Test>
+Modl Output: ,+PUNCT
+True Output: ,+PUNCT
+</Test>
+<Test>
+Modl Output: sağlık+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: sağlık+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: bomba+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: bomba+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: yakayar+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: yakala+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: '+PUNCT
+True Output: '+PUNCT
+</Test>
+<Test>
+Modl Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+True Output: ol+VERB+Polarity=Pos+Proper=False+DB^ADV+Derivation=Ger+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: benzer+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+True Output: benzer+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+True Output: bu+PRON+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: kişiye+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: kişi+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: o+NOUN+Apostrophe=True+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: o'neil+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: yer+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+True Output: yer+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Acc+Proper=False
+</Test>
+<Test>
+Modl Output: mahfetme+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+True Output: mahvet+VERB+Polarity=Pos+Proper=False+DB^NOUN+Derivation=Nonf+PersonNumber=A3sg+Possessive=P3sg+Case=Abl+Proper=False
+</Test>
+<Test>
+Modl Output: cihaz+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Loc+Proper=False
+True Output: cihaz+NOUN+PersonNumber=A3sg+Possessive=P2pl+Case=Loc+Proper=False+DB^ADJ+Derivation=Rel+Proper=False
+</Test>
+<Test>
+Modl Output: objek+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: objektif+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Gen+Proper=False
+</Test>
+<Test>
+Modl Output: beautiful+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+True Output: beautiful+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=True
+</Test>
+<Test>
+Modl Output: ki+PRT+Proper=False
+True Output: ki+CONJ+ConjunctionType=Sub+Proper=False
+</Test>
+<Test>
+Modl Output: soy+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+True Output: soy+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^ADJ+Derivation=With+Proper=False
+</Test>
+<Test>
+Modl Output: çok+ADV+Proper=False
+True Output: çok+ADV+Proper=False
+</Test>
+<Test>
+Modl Output: hesap+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False
+True Output: hesap+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: .+PUNCT
+True Output: .+PUNCT
+</Test>
+<Test>
+Modl Output: takım+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: takım+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: ''+PUNCT
+True Output: ''+PUNCT
+</Test>
+<Test>
+Modl Output: ber+PRON+PersonNumber=A3sg+Possessive=P3sg+Case=Nom+Proper=False
+True Output: beri+ADP+ComplementType=CAbl+Possessive=Pnon+Case=Bare+Proper=False
+</Test>
+<Test>
+Modl Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+True Output: zaman+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: hazır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+True Output: hazır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Proper=False+DB^NOUN+Derivation=Ness+PersonNumber=A3pl+Possessive=Pnon+Case=Dat+Proper=False
+</Test>
+<Test>
+Modl Output: dilek+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+True Output: dilek+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Ins+Proper=False
+</Test>
+<Test>
+Modl Output: karış+NOUN+PersonNumber=A3sg+Possessive=P3sg+Case=Loc+Proper=False
+True Output: karşı+ADP+ComplementType=CBare+Possessive=P3sg+Case=Loc+Proper=False
+</Test>
+<Test>
+Modl Output: veya+CONJ+ConjunctionType=Coor+Proper=False
+True Output: veya+CONJ+ConjunctionType=Coor+Proper=False
+</Test>
+<Test>
+Modl Output: şekil+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+True Output: şekil+NOUN+PersonNumber=A3pl+Possessive=P3sg+Case=Nom+Proper=False
+</Test>
+<Test>
+Modl Output: erişeme+VERB+PersonNumber=A3sg+Possessive=P2pl+Case=Bare+Copula=PresCop+PersonNumber=V2pl+Proper=False
+True Output: er+VERB+Proper=False+DB^VERB+Derivation=Rcp+Proper=False+DB^VERB+Derivation=Able+Polarity=Neg+Proper=False+DB^ADJ+Derivation=PastPart+Possessive=P2pl+Proper=False
+</Test>
+<Test>
+Modl Output: ve+CONJ+ConjunctionType=Coor+Proper=False
+True Output: ve+CONJ+ConjunctionType=Coor+Proper=False

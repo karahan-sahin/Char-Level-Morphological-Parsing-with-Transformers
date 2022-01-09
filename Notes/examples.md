@@ -66,7 +66,7 @@ True output: [start]hazır+NOUN+PersonNumber=A3sg+Possessive=Pnon+Case=Bare+Prop
 ```
 <Test>
 Input token: komutan
-Model output: komut[VERB][Polarity=Pos][Proper=False][Derivation=Nonf][PersonNumber=A3sg][Possessive=Pnon][Case=Bare][Proper=False]
-True output: komutan[NOUN][PersonNumber=A3sg][Possessive=Pnon][Case=Bare][Proper=False]
+Model output: komut[VERB][Polarity=Pos][Derivation=Nonf][PersonNumber=A3sg]
+True output: komutan[NOUN][PersonNumber=A3sg][Possessive=Pnon][Case=Bare]
 <\Test>
 ```

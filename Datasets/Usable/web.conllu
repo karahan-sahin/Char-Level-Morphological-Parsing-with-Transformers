@@ -25578,12 +25578,11 @@
 15	...	...	PUNCT	.	Proper=False	11	p	_	_
 
 # sent_id = tr-blog:00000920:S003
-# text = _ Makyaj sevmiyorum ben.
-1	_	_	X	LS	Proper=False	3	p	_	_
-2	Makyaj	makyaj	NOUN	NN	PersonNumber=A3sg|Possessive=Pnon|Case=Bare|Proper=False	3	dobj	_	_
-3	sevmiyorum	sev	VERB	VB	Polarity=Neg|TenseAspectMood=Prog1|Copula=PresCop|PersonNumber=V1sg|Proper=False	0	root	_	_
-4	ben	ben	PRON	PRP	PersonNumber=A1sg|Possessive=Pnon|Case=Nom|Proper=False	3	nsubj	_	SpaceAfter=No
-5	.	.	PUNCT	.	Proper=False	3	p	_	_
+# text = Makyaj sevmiyorum ben.
+1	Makyaj	makyaj	NOUN	NN	PersonNumber=A3sg|Possessive=Pnon|Case=Bare|Proper=False	3	dobj	_	_
+2	sevmiyorum	sev	VERB	VB	Polarity=Neg|TenseAspectMood=Prog1|Copula=PresCop|PersonNumber=V1sg|Proper=False	0	root	_	_
+3	ben	ben	PRON	PRP	PersonNumber=A1sg|Possessive=Pnon|Case=Nom|Proper=False	3	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	Proper=False	3	p	_	_
 
 # sent_id = tr-guide:00000384:S013
 # text = Çok farklı yüzeysel sebeplerden olabilir ama karın ağrılarının 1/3'ü ameliyatlıktır.
