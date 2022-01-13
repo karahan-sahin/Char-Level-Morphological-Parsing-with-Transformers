@@ -1,0 +1,9 @@
+\+Proper=False
+\+Case=Bare+
+\+Polarity=Pos 7853
+\n.+?(?!ler\t).+?\+PersonNumber=V3pl
+\+PersonNumber=A3sg
+\+Possessive=Pnon
+\+(Complement|Conjunction|Determiner)Type=  ^
+\+Temporal=True ^Temporal
+\+PersonNumber=A(1|2)   ^A$1
